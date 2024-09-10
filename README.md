@@ -6,8 +6,6 @@
 ## ESTUDANDO
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 30px; height: 40px;" alt="c#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 30px; height: 40px;" alt="java">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-
 ## A FUGA DA PIRÂMIDE
 Este jogo foi desenvolvido para minha graduação no técnico de informática, com o intuito de ser um jogo educativo para os alunos do Ensino Fundamental. É um jogo Escape-room em primeira pessoa, onde o player precisa realizar puzzles e correr contra o tempo para não ficar preso em uma das Pirâmides de Guizé.
 <a href="https://github.com/JaqueRB/TCC-final">A FUGA DA PIRÂMIDE🐫</a>
